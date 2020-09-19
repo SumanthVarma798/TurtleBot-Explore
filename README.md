@@ -8,5 +8,10 @@ The server moves the bot by publishing to the `cmd_vel` topic and displays conti
 
 ### Here are some images of the Turtlebot in action
 
+> TurtleBot in the center of the house
+
 ![Turtlebot exploring](tbotSnap1.png)
+
+> Turtlebot's server logs
+
 ![Turtlebot exploring house](tbotSnap2.png)
